@@ -1,4 +1,4 @@
-#Movie Review Sentiment Classifier using SGD
+# Movie Review Sentiment Classifier using SGD
 
 A binary sentiment classifier that predicts whether a movie review is positive (1) or negative (-1). The system implements a custom feature extractor, SGD-based weight training, and a prediction module. Given training directories of positive and negative reviews, it learns to classify unseen test reviews and outputs the accuracy percentage.
 
